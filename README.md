@@ -17,9 +17,13 @@ Dataset Source - [Healthcare Insurance Data Analysis ](https://www.kaggle.com/da
 ## Insights
 
 **1. Smoking Impact on Charges:** There is a significant difference in charges between smokers and non-smokers. Smokers tend to have higher insurance costs, which aligns with health risks associated with smoking.
+
 **2. Gender Distribution:** The dataset shows a balanced distribution between males and females.
+
 **3. Age vs. Charges:** Older individuals generally have higher insurance costs, indicating a correlation between age and healthcare expenses.
+
 **4. BMI and Charges:** Higher BMI values seem to increase the insurance charges, suggesting a link between obesity and medical expenses.
+
 **5. Regional Distribution:** The dataset does not show any extreme variations in insurance charges across different regions, suggesting that location does not significantly impact costs.
 
 
