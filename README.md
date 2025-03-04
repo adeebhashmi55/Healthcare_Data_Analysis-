@@ -30,8 +30,11 @@ Dataset Source - [Healthcare Insurance Data Analysis ](https://www.kaggle.com/da
 ## Key Findings
 
 **1. Age Distribution:** The dataset shows a uniform distribution of ages.
+
 **2. BMI Distribution:** The BMI values follow a normal distribution but contain some outliers.
+
 **3. Charges Distribution:** Insurance charges exhibit a right-skewed distribution, meaning a small portion of customers have very high charges.
+
 **4. Outliers:** BMI has 9 outliers. Charges contain 139 outliers, likely influencing the distribution.
 
 ## Recommendations
